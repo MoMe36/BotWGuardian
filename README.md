@@ -1,7 +1,7 @@
 # BotWGuardian
 A repo holding my Unity package for the BotW inspired Guardian
 
-Check the video at: 
+Check the video at: https://youtu.be/rhyMK8KSIIk
 
 
 # How to use
